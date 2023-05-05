@@ -25,12 +25,14 @@ Run ng serve for a dev server
 
 
 User stories for backend:
+
 As a user, I want to be able to create a new record in the database using the API endpoint, so that I can add new contact to the application.
 As a user, I want to be able to read the existing records in the database using the API endpoint, so that I can view a contact in the application.
 As a user, I want to be able to update the existing records in the database using the API endpoint, so that I can modify a contact in the application.
 As a user, I want to be able to delete the existing records from the database using the API endpoint, so that I can remove a contact from the application.
 
 User stories for frontend:
+
 As a user, I want to be able to view a list of all contacts in the database.
 As a user, I want to be able to add a new contact to the database.
 As a user, I want to be able to edit an existing contact in the database.
