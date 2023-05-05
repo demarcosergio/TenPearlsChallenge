@@ -1,0 +1,12 @@
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Core\bin\Debug\net6.0\TenPearls.Core.deps.json
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Core\bin\Debug\net6.0\TenPearls.Core.dll
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Core\bin\Debug\net6.0\TenPearls.Core.pdb
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Core\obj\Debug\net6.0\TenPearls.Core.csproj.AssemblyReference.cache
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Core\obj\Debug\net6.0\TenPearls.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Core\obj\Debug\net6.0\TenPearls.Core.AssemblyInfoInputs.cache
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Core\obj\Debug\net6.0\TenPearls.Core.AssemblyInfo.cs
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Core\obj\Debug\net6.0\TenPearls.Core.csproj.CoreCompileInputs.cache
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Core\obj\Debug\net6.0\TenPearls.Core.dll
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Core\obj\Debug\net6.0\refint\TenPearls.Core.dll
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Core\obj\Debug\net6.0\TenPearls.Core.pdb
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Core\obj\Debug\net6.0\ref\TenPearls.Core.dll

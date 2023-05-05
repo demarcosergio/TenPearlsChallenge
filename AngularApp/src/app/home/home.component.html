@@ -1,0 +1,65 @@
+<div class="container-xl" style="margin-top: 8rem">
+  <div class="table-responsive">
+    <div class="table-wrapper">
+      <div class="table-title">
+        <div class="row">
+          <div class="col-sm-6">
+            <h4><b>Manage Contacts</b></h4>
+          </div>
+          <div class="col-sm-6">
+            <button class="btn btn-success" (click)="AddContact()">
+              <i class="fas fa-plus-circle"></i><span> ADD</span>
+            </button>
+          </div>
+        </div>
+      </div>
+      <table
+        class="table table-striped table-hover table-bordered table-content"
+      >
+        <thead>
+          <tr class="center-align">
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let contact of contactList" class="center-align">
+            <td>{{ contact.firstName }}</td>
+            <td>{{ contact.lastName }}</td>
+            <td>{{ contact.email }}</td>
+            <td>{{ contact.phoneNumber }}</td>
+            <td>
+              <a
+                href="#"
+                [routerLink]="['/ViewContact/', contact.contactId]"
+                class="btn"
+                ><i class="fas fa-eye view"></i
+              ></a>
+              <a
+                href="#"
+                [routerLink]="['/EditContact/', contact.contactId]"
+                class="btn"
+                ><i class="fa fa-edit edit"></i
+              ></a>
+              <button
+                type="button"
+                (click)="deleteContactConfirmation(contact)"
+                class="btn"
+              >
+                <i class="fas fa-trash-alt delete"></i>
+              </button>
+            </td>
+          </tr>
+          <tr>
+            <td *ngIf="contactList.length == 0" colspan="6">
+              No Contact Found
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

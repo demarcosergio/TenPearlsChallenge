@@ -1,0 +1,15 @@
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Application\obj\Debug\net6.0\TenPearls.Application.csproj.AssemblyReference.cache
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Application\obj\Debug\net6.0\TenPearls.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Application\obj\Debug\net6.0\TenPearls.Application.AssemblyInfoInputs.cache
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Application\obj\Debug\net6.0\TenPearls.Application.AssemblyInfo.cs
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Application\obj\Debug\net6.0\TenPearls.Application.csproj.CoreCompileInputs.cache
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Application\bin\Debug\net6.0\TenPearls.Application.deps.json
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Application\bin\Debug\net6.0\TenPearls.Application.dll
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Application\bin\Debug\net6.0\TenPearls.Application.pdb
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Application\bin\Debug\net6.0\TenPearls.Core.dll
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Application\bin\Debug\net6.0\TenPearls.Core.pdb
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Application\obj\Debug\net6.0\TenPearls.Application.csproj.CopyComplete
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Application\obj\Debug\net6.0\TenPearls.Application.dll
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Application\obj\Debug\net6.0\refint\TenPearls.Application.dll
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Application\obj\Debug\net6.0\TenPearls.Application.pdb
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Application\obj\Debug\net6.0\ref\TenPearls.Application.dll

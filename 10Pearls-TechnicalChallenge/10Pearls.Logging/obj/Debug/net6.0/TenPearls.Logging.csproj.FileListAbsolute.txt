@@ -1,0 +1,17 @@
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\obj\Debug\net6.0\TenPearls.Logging.csproj.AssemblyReference.cache
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\obj\Debug\net6.0\TenPearls.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\obj\Debug\net6.0\TenPearls.Logging.AssemblyInfoInputs.cache
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\obj\Debug\net6.0\TenPearls.Logging.AssemblyInfo.cs
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\obj\Debug\net6.0\TenPearls.Logging.csproj.CoreCompileInputs.cache
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\bin\Debug\net6.0\TenPearls.Logging.deps.json
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\bin\Debug\net6.0\TenPearls.Logging.dll
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\bin\Debug\net6.0\TenPearls.Logging.pdb
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\bin\Debug\net6.0\TenPearls.Application.dll
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\bin\Debug\net6.0\TenPearls.Core.dll
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\bin\Debug\net6.0\TenPearls.Application.pdb
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\bin\Debug\net6.0\TenPearls.Core.pdb
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\obj\Debug\net6.0\TenPearls.Logging.csproj.CopyComplete
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\obj\Debug\net6.0\TenPearls.Logging.dll
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\obj\Debug\net6.0\refint\TenPearls.Logging.dll
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\obj\Debug\net6.0\TenPearls.Logging.pdb
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Logging\obj\Debug\net6.0\ref\TenPearls.Logging.dll

@@ -1,0 +1,12 @@
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Sql\bin\Debug\net6.0\TenPearls.Sql.deps.json
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Sql\bin\Debug\net6.0\TenPearls.Sql.dll
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Sql\bin\Debug\net6.0\TenPearls.Sql.pdb
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Sql\obj\Debug\net6.0\TenPearls.Sql.csproj.AssemblyReference.cache
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Sql\obj\Debug\net6.0\TenPearls.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Sql\obj\Debug\net6.0\TenPearls.Sql.AssemblyInfoInputs.cache
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Sql\obj\Debug\net6.0\TenPearls.Sql.AssemblyInfo.cs
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Sql\obj\Debug\net6.0\TenPearls.Sql.csproj.CoreCompileInputs.cache
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Sql\obj\Debug\net6.0\TenPearls.Sql.dll
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Sql\obj\Debug\net6.0\refint\TenPearls.Sql.dll
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Sql\obj\Debug\net6.0\TenPearls.Sql.pdb
+C:\REPOS\10Pearls-TechnicalChallenge\10Pearls-TechnicalChallenge\10Pearls.Sql\obj\Debug\net6.0\ref\TenPearls.Sql.dll
